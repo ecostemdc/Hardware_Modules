@@ -1,0 +1,4 @@
+Protocole custom
+Alimentation 3.3V
+IO 5 V tolerant if 470R serial added
+

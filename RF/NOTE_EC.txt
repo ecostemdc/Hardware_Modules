@@ -1,0 +1,4 @@
+Protocole SPI
+Alimentation 3.3V
+IO 5 V tolerant, NO LVL converted required
+
