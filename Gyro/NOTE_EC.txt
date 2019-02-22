@@ -1,0 +1,3 @@
+Protocole I2C
+Alimentation 3.3V et 5V via Reg
+IO 3.3V  verify LVL convertor !!!!

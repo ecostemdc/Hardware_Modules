@@ -1,0 +1,3 @@
+Protocole I2V
+Alimentation 5V et 3.3V
+IO 3.3V V verify LVL convertor !!!!
